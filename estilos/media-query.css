@@ -7,6 +7,7 @@
   }
   section#login {
     width: 90vw;
+    height: 276px;
   }
   
   section#login > div#imagem {
@@ -21,7 +22,7 @@
   }
 
   form > a.botao {
-    border-radius: 5px;
+    border-radius: 5px 5px 11px 5px;
   }
 }
 
@@ -33,6 +34,7 @@
 
   section#login {
     width: 950px;
+    height: 353px;
   }
 
   section#login > div#imagem {
@@ -52,9 +54,10 @@
 
   div#formulario > p {
     font-size: 1.2em;
+    margin: 20px 0px;
   }
 
   form > a.botao {
-    border-radius: 5px;
+    border-radius: 5px 5px 5px 11px;
   }
 }
